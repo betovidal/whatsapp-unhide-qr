@@ -1,7 +1,7 @@
 whatsapp-unhide-qr
 ============
 
-Under some conditions in Linux, whatsapp web QR shows for some milliseconds and then dissappears. As no feedback is given I suppose it's something we can fix with the power of JS!
+Under some conditions described [here](https://askubuntu.com/questions/1006403/whatsapp-web-qrcode-flashes-and-dissapears) in Linux, whatsapp web QR shows for some milliseconds and then dissappears. As the accepted answer did not solve the problem for me and no feedback is given I suppose it's something we can fix with the power of JS!
 
 
 Usage
