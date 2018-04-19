@@ -9,7 +9,7 @@ Usage
 
 There's two files, one for analizing/editing the code and the other to quickly be added as a bookmark (which is what I prefer).
 
-As this is not a repetitive thing to do (if you like to remember computers which have a known whatsapp session), maybe you should just copy/paste the multi-line code into the console and scan the QR. But if for some reason you want it available as a bookmark (if you logout everytime you stop using whatsapp in that computer), there's the one-liner already wrapped around a ____javascript:(/* Code here */)();_ so you can add it as a bookmark.
+As this is not a repetitive thing to do (if you like to remember computers which have a known whatsapp session), maybe you should just copy/paste the multi-line code into the console and scan the QR. But if for some reason you want it available as a bookmark (if you logout everytime you stop using whatsapp in that computer), there's the one-liner already wrapped around a _javascript:(/* Code here */)();_ so you can add it as a bookmark.
 
 
 Use it as a bookmark
